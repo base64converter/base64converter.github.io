@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://bas64.netlify.app/</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/crc16</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/crc16_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/crc32</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/crc32_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/md2</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/md2_file_hash</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/md4</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/md4_file_hash</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/md5</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/md5_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha1</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha1_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha224</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha224_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha256</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha256_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/double_sha256</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha384</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha384_file_hash</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha512</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha512_file_hash</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha512_224</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha512_224_file_hash</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha512_256</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha512_256_file_hash</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha3_224</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha3_224_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha3_256</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha3_256_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha3_384</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha3_384_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha3_512</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/sha3_512_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/keccak_224</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/keccak_224_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/keccak_256</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/keccak_256_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/keccak_384</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/keccak_384_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/keccak_512</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/keccak_512_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/shake_128</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/shake_128_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/shake_256</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/shake_256_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/cshake128</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/cshake128_file_hash</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/cshake256</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/cshake256_file_hash</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/kmac128</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/kmac128_file_hash</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/kmac256</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/kmac256_file_hash</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/ripemd_128</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/ripemd_128_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/ripemd_160</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/ripemd_160_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/ripemd_256</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/ripemd_256_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/ripemd_320</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/ripemd_320_checksum</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base32_encode</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base32_decode</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base32_encode_file</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base32_decode_file</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base58_encode</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base58_decode</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base58_encode_file</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base58_decode_file</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base64_encode</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base64_decode</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base64_encode_file</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/base64_decode_file</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/html_encode</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/html_decode</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/url_encode</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/url_decode</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bas64.netlify.app/syntax_highlight</loc>
+	<lastmod>2024-03-04T18:19:53+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
