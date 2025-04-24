@@ -4,7 +4,7 @@
 Please go to [Online Tools](https://base64converter.github.io/)
 
 ## Contact  
-The project's website is located at [https://github.com/base64converter/base64converter.github.io](https://github.com/base64converter/base64converter.github.io)  
+The project's website is located at [[https://github.com/base64converter/base64converter.github.io](https://github.com/base64converter/base64converter.github.io)  ](https://base64converter.github.io/base64_encode.html)
 Author: base64translator@gmail.com
 
 ### Tools:
