@@ -6,7 +6,7 @@ Please go to [Online Tools](https://base64converter.github.io/)
 The project's website is located at [https://github.com/base64converter/base64converter.github.io](https://github.com/base64converter/base64converter.github.io)  
 Author: base64translator@gmail.com
 
-### Pages:
+### Tools:
 - [Base64 Encoder](https://base64converter.github.io/base64_encode.html)
 - [Base64 Decoder](https://base64converter.github.io/base64_decode.html)
 - [Base32 Encoder](https://base64converter.github.io/base32_encode.html)
